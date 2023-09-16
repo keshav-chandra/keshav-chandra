@@ -6,7 +6,7 @@
   </div>
   <br>
   <div align ="left">
-    <p><b>I am QAMBER HASNAIN, a 4th year student pursuing Bachelors in Computer science and engineering (Specializing in Data Science). I am a quick learner who loves to connect with people, learn new things and trying to understand life.</p>
+    <p><b>I am KESHAV CHANDRA, a  student completed Bachelors in Computer science and engineering. I am a quick learner who loves to connect with people, learn new things and trying to understand life.</p>
     </b>
 </div><br>
 <br>
@@ -16,7 +16,7 @@
 <h3> Connect with me:</h3>
 
 [![Linkedin Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qamberhasnain)
-[![Instagram Connect](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__t_h_u_g__l_i_f_e_/)
+[![Instagram Connect](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/keshav_rock/)
 [![Facebook Connect](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/qamberhasnainn)
 [![Twitter Connect](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Qamberhasnain1)
 <br><br>
