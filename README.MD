@@ -17,10 +17,10 @@
 
 [![Linkedin Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-chandra)
 [![Instagram Connect](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/keshav2220_/)
-[![Facebook Connect](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Keshav Rock/)
+[![Facebook Connect](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Keshav2220)
 <br><br>
 ### Competitive Programming Profiles:
-[<img align="left" alt="qamber_hasnain99" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />](https://www.hackerrank.com/qamber_hasnain99)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img align="left" alt="qamber_hasnain99" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />](https://www.hackerrank.com/keshavchandra221)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img align="left" alt="qamber" height="45px" width="45px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/hackerearth.svg"/>](https://www.hackerearth.com/@qamber)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img align="left" alt="Qamberhasnain" height="45px" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg"/>](https://leetcode.com/Qamberhasnain/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img align="left" alt="qamber99" width="45px" src="https://www.stopstalk.com/static/images/stopstalk-logo.png" />](https://www.stopstalk.com/user/profile/qamber99)
