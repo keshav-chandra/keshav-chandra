@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=keshav-chandra&color=blue"/>
 <h1 align="center">HOLA! I'm KESHAV CHANDRA <!--<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">--> 👋 </h1>
-<h3 align="center">A Boy who finds problem to solve, if he can't find, creates one.</h3>
+<h3 align="center">We code to perfection</h3>
   <div align ="center">
     <img align ="right" alt="BoyWhoCodes"  width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
   </div>
@@ -20,10 +20,9 @@
 [![Facebook Connect](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Keshav2220)
 <br><br>
 ### Competitive Programming Profiles:
-[<img align="left" alt="qamber_hasnain99" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />](https://www.hackerrank.com/keshavchandra221)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img align="left" alt="keshav_chandra" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />](https://www.hackerrank.com/keshavchandra221)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img align="left" alt="qamber" height="45px" width="45px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/hackerearth.svg"/>](https://www.hackerearth.com/@qamber)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img align="left" alt="Qamberhasnain" height="45px" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg"/>](https://leetcode.com/Qamberhasnain/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img align="left" alt="qamber99" width="45px" src="https://www.stopstalk.com/static/images/stopstalk-logo.png" />](https://www.stopstalk.com/user/profile/qamber99)
+[<img align="left" alt="Qamberhasnain" height="45px" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg"/>](https://leetcode.com/Keshav8825/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br><br>
 
