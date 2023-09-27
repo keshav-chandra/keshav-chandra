@@ -51,7 +51,7 @@
 <br><br><br>
 
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=keshav-chandra&theme=calm&hide_border=true)](https://git.io/streak-stats)-->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=keshav-chandra&theme=calm&hide_border=true" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=keshav-chandra&theme=calm&hide_border=true&type=png" />
 
 <br>
 
