@@ -1,5 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=keshav-chandra&color=blue"/>
-<h1 align="center">HOLA! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  <!--👋--> I'm KESHAV CHANDRA  </h1>
+<div align="center">
+<h1>HOLA! </h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  <!--👋--> <h1> I'm KESHAV CHANDRA</h1>
+</div>
 
 <h3 align="center">I create, covert & code till perfection</h3>
   <div align ="center">
