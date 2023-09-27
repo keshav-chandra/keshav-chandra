@@ -1,6 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=keshav-chandra&color=blue"/>
-<h1 align="center">HOLA! <!--<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">--> 👋 I'm KESHAV CHANDRA  </h1>
-<h3 align="center">I create,covert & code till perfection</h3>
+<h1 align="center">HOLA! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  <!--👋--> I'm KESHAV CHANDRA  </h1>
+
+<h3 align="center">I create, covert & code till perfection</h3>
   <div align ="center">
     <img align ="right" alt="BoyWhoCodes"  width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
   </div>
