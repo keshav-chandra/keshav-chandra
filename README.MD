@@ -50,8 +50,7 @@
 </p>
 <br><br><br>
 
-[![keshav's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=keshav-chandra&theme=calm)](https://github.com/keshav-chandra)
-<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=keshav-chandra&theme=calm&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=keshav-chandra&theme=calm&hide_border=true)](https://git.io/streak-stats)
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=keshav-chandra&count_private=true&show_icons=true&theme=calm&hide_border=true" />
