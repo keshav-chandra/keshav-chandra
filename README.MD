@@ -51,6 +51,8 @@
 </p>
 <br><br><br>
 
+[![An image of @keshavchandra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/keshavchandra)](https://holopin.io/@keshavchandra)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=keshav-chandra&theme=calm&hide_border=true)](https://git.io/streak-stats)
 <!--<img align="center" src="https://streak-stats.demolab.com/?user=keshav-chandra&theme=calm&hide_border=true" />-->
 
