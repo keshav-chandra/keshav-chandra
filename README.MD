@@ -7,7 +7,7 @@
   </div>
   <br>
   <div align ="left">
-    <p><b>I am KESHAV CHANDRA, a  student completed Bachelors in Computer science and engineering. I am a quick learner who loves to connect with people, learn new things and trying to understand life.</p>
+    <p><b>I am KESHAV CHANDRA, a  student completed Bachelors in Computer science and engineering. I am a quick learner who loves to connect with people, learn new things and trying to understand it in my life.</p>
     </b>
 </div><br>
 <br>
