@@ -12,7 +12,7 @@
 </div><br>
 <br>
 <!--<li> 💻 First <b>Deployed Spring Boot Web Application</b>: <a href="https://dictionaryapp.azurewebsites.net">Click here</a> to launch the application.</li> -->
-<li> ⚡ Fun fact: <b>I am always eager to learn something new from others.</b></li>
+<li>⚡ Fun fact: <b>I am always eager to learn something new from others.</b></li>
 <br><br>
 <h3> Connect with me:</h3>
 
